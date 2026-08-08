@@ -1,2 +1,0 @@
-Picking sequence: 
-Max Profit: 0
