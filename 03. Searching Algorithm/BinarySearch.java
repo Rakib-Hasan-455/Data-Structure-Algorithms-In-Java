@@ -7,10 +7,10 @@ public class BinarySearch {
             int middle = (left + right) / 2;
             if (arr[middle] == searchVal) {
                 return middle;
-            } else if (arr[middle] < searchVal) {
-                left = middle + 1;
-            } else {
+            } else if (arr[middle] > searchVal) {
                 right = middle - 1;
+            } else {
+                left = middle + 1;
             }
         }
         return -1;
@@ -44,6 +44,39 @@ public class BinarySearch {
             }
         }
         return -1;
+    }
+
+    static int lowerBound(int[] arr, int searchVal, int left, int right) {
+        int answer = right + 1;
+
+        while (left <= right) {
+            int middle = (left + right) / 2;
+
+            if (arr[middle] >= searchVal) {
+                answer = middle;
+                right = middle - 1;
+            } else {
+                left = middle + 1;
+            }
+        }
+
+        return answer;
+    }
+
+    static int upperBound(int[] arr, int searchVal, int left, int right) {
+        int answer = right + 1;
+
+        while (left <= right) {
+            int middle = (left + right) / 2;
+            if (arr[middle] > searchVal) {
+                answer = middle;
+                right = middle - 1;
+            } else {
+                left = middle + 1;
+            }
+        }
+
+        return answer;
     }
 
 }
