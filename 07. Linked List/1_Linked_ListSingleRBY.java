@@ -2,7 +2,7 @@
 
 class Node {
     int data;
-    NodeDjstra link;
+    Node link;
 
     Node(int data) {
         this.data = data;
@@ -12,7 +12,7 @@ class Node {
 
 class Linked_ListSingleRBY {
 
-    static void print(NodeDjstra next) {
+    static void print(Node next) {
         while (next != null) {
             System.out.println(next.data);
             System.out.println(next.link);
@@ -21,9 +21,9 @@ class Linked_ListSingleRBY {
     }
 
     public static void main(String[] args) {
-        NodeDjstra head = new NodeDjstra(2);
-        NodeDjstra two = new NodeDjstra(5);
-        NodeDjstra three = new NodeDjstra(8);
+        Node head = new Node(2);
+        Node two = new Node(5);
+        Node three = new Node(8);
 
         head.link = two;
         two.link = three;
