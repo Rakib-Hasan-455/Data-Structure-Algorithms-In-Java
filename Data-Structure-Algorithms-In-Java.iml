@@ -20,12 +20,26 @@
       <sourceFolder url="file://$MODULE_DIR$/19. Dijkstra" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/20. Bellman Ford" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/21. Dynamic Programming" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/04. Sorting Algo/All Sorting Algorithm Analysis" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/05. Stack/More" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/06. Queue/More" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/08. Greedy Algorithm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/08. Greedy Algorithm/Fractional_knapSack" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/08. Greedy Algorithm/Job_Scheduling_Max_profit_sequence_Algorithm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/08. Greedy Algorithm/Max_work_activity_sequence_problem" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/09. Recursion" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/09_1. Backtracking" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/09_1. Backtracking/1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/09_1. Backtracking/1/ Backtracking" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/10. Trees" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10_1. Trie" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/11. Heap" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/11. Heap/Max_Heap-Max_Priority_Queue" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/11. Heap/Min_Heap-Min_Priority_Queue" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/12. Union Find Disjoint" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/13. Graph" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/14. Minimum Spanning Tree/Kruscals_Algorithm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/14. Minimum Spanning Tree/Prims_Algorithm" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

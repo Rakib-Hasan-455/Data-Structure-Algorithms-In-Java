@@ -1,4 +1,4 @@
-// Counting sort in Java programming
+package More;// Counting sort in Java programming
 
 class CountingSort {
     static void countSort(int[] array, int size) {
