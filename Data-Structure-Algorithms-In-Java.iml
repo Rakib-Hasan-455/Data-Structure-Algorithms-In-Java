@@ -12,12 +12,6 @@
       <sourceFolder url="file://$MODULE_DIR$/05. Stack" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/06. Queue" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/07. Linked List" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/08. Recursion" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/09. Trees" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/10. Graph" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/11. Greedy Algorithm" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/12. Heap" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/13. Union Find Disjoint" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/14. Minimum Spanning Tree" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/15. BFS" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/16. DFS" isTestSource="false" />
@@ -26,6 +20,12 @@
       <sourceFolder url="file://$MODULE_DIR$/19. Dijkstra" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/20. Bellman Ford" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/21. Dynamic Programming" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/08. Greedy Algorithm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/09. Recursion" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10. Trees" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/11. Heap" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/12. Union Find Disjoint" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/13. Graph" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
