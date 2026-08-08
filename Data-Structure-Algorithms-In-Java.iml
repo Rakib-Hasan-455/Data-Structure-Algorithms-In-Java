@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0. Intro" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1. Array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10. Greedy Algorithm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/11. Heap" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/12. Union Find Disjoint" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/13. Minimum Spanning Tree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/14. BFS" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/15. DFS" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/16. Topological Sort" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/17. Strongly Connected Components" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/18. Dijkstra" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/19. Bellman Ford" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2. String" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/20. Dynamic Programming" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3. Searching Algorithm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4. Sorting Algo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/5. Stack" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/6. Queue" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/7. Linked List" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/8. Recursion" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/8. Trees" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/9. Graph" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
